@@ -18,10 +18,6 @@ This is a first project from microverse
 
 ## Getting Started
 
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
-
-
 To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
@@ -31,6 +27,11 @@ To get a local copy up and running follow these simple example steps.
 ### Setup
 - Clone the repository to your computer, or you download the zip file containing the repository files.
 - File editing can then be applied using any code editor.
+- In order to use is possible to :
+- Open editor terminal
+- Digit "git clone https://github.com/PedroH-Neves/Hello-Microverse.git"
+- Then "cd Hello Microverse"
+
 ### Install
 - `npm install`
 
@@ -68,6 +69,4 @@ Give a ⭐️ if you like this project!
 
 ## 📝 License
 
-This project is [MIT](./LICENSE) licensed.
-
-_NOTE: we recommend using the [MIT license](https://choosealicense.com/licenses/mit/) - you can set it up quickly by [using templates available on GitHub](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository). You can also use [any other license](https://choosealicense.com/licenses/) if you wish._
+This project is [MIT](./MIT.md) licensed.
